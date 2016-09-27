@@ -22,7 +22,7 @@ A blog post on [themodernscientist](http://themodernscientist.com) will be avail
 * **figures**: images used in the presentation
 * **notebooks**: Jupyter notebooks used for analysis
 * **presentation**: A [PDF](https://github.com/mlgill/wine_nlp/blob/master/presentation/Imbibing_in_NLP_MLGill.pdf) version of the final presentation
-* **visualization**: D3 visualization of LDA clusters
+* **visualization**: D3 visualization of LDA clusters. A [movie](https://github.com/mlgill/wine_nlp/blob/master/visualization/Gensim_LDA_analysis_MLGill.mp4) of the visualization is also available
 
 ## Data Sources
 
