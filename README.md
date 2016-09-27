@@ -21,7 +21,7 @@ A blog post on [themodernscientist](http://themodernscientist.com) will be avail
 * **environment.yml**: list of conda python libraries that were used during analysis
 * **figures**: images used in the presentation
 * **notebooks**: Jupyter notebooks used for analysis
-* **presentation**: [PDF](https://github.com/mlgill/wine_nlp/blob/master/presentation/Imbibing_in_NLP_MLGill.pdf) 
+* **presentation**: A [PDF](https://github.com/mlgill/wine_nlp/blob/master/presentation/Imbibing_in_NLP_MLGill.pdf) version of the final presentation
 * **visualization**: D3 visualization of LDA clusters
 
 ## Data Sources
